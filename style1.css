@@ -1,0 +1,24 @@
+#particles-js{
+	background-color: #00795f;
+	height: 100vh;
+	
+}
+body{
+	margin:0;
+	font: normal 16px Arial, Helvetica, sans-serif;
+	color: #333;
+}
+#container{
+	background-color: #fff;
+	opacity: 0.9;
+	padding: 4em;
+	border: #ccc 2px solid;
+	position: absolute;
+	top: 100px;
+	left: 50px;
+}
+#container input[type="text"], #container input[type="password"]{
+	padding: 7px;
+	margin-bottom: 10px;
+	border: 1px #ccc solid;
+}
